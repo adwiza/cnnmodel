@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 v2-plant-seedling-dataset/
 *.keras
+.idea/
